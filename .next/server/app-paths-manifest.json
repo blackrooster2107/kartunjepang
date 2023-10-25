@@ -1,0 +1,9 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/kartun/[kartunid]/page": "app/kartun/[kartunid]/page.js",
+  "/musim/sekarang/hal/[pg]/page": "app/musim/sekarang/hal/[pg]/page.js",
+  "/page": "app/page.js",
+  "/populer/hal/[pg]/page": "app/populer/hal/[pg]/page.js",
+  "/search/[query]/page": "app/search/[query]/page.js"
+}
